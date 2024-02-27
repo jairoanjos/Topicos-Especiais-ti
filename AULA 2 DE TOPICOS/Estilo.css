@@ -1,0 +1,20 @@
+p {
+    color: red;
+    background-color: black;
+    font-size: 12 px;
+    
+}
+h1 {
+    color: blue; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+}
+h2 {
+    border: 10px solid red;
+}
+h3{ border: 15px solid rgb(136, 213, 0);}
+h4{ border: 25px solid rgb(223,213,213);}
+h5{border: 30px solid rgb(111,0,255);}
+h6{ color: blue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size:48px;}
